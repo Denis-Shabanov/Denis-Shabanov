@@ -1,3 +1,16 @@
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM5YnNpaGsycTFjNjV0MmI0dmtjZXU0NXduZXUxN2pzeDFwaW43dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://t.me/Shabanov_Denis" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
+
+
 <h1 align="left">Привет! 👋</h1>
 
 ###
